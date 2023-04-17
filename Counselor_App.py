@@ -3,7 +3,6 @@
 #Sharan Pai, April 2023
 #NOTES:
 #When run, the app sometimes opens in a window not seen, and to view it, press alt+tab
-#Occasionally, errors might show, but they (usually) do not affect the performance of the app
 
 from tkinter import *
 from tkinter.ttk import *

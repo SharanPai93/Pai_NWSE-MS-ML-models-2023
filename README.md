@@ -26,8 +26,10 @@ In the **Counselor View**, the interface allows the user to switch between stude
 5. Surprise
 6. Love  
    
-Of the emotions above, three are classified as *good*, and three are classified as *bad*. Along with the emotions, the language model predicts an intensity of the emotion, allowing for me to create an algorithm to provide the most needy students with a counselor at a higher priority than others.
+Of the emotions above, three are classified as *good*, and three are classified as *bad*. Along with the emotions, the language model predicts an intensity of the emotion, allowing for me to create an algorithm to provide the most needy students with a counselor at a higher priority than others.  
+### Purpose
+The purpose of this app was to conduct an experiment and simulate a real student-counselor situation in which an over-crowded school has to meet the needs of multiple students with few counselors to support them at the same time. Therefore, this app would be used to be an easy, reliable, and efficient way for the counselors to organize themselves, and treat the students accordingly.
 ## Notes
 1. This project was created for research and experimental purposes only. This app was not tested on anyone.
 2. This app remains a prototype, as the data can only be accessed locally.
-3. The model used is called BERT, which stands for Bi-directional Encoder Representations from Transformers. This model was made by google.
+3. The model used is called BERT, which stands for Bi-directional Encoder Representations from Transformers. This model was made by google, and was the third model I used for my project.

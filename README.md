@@ -1,6 +1,6 @@
 # Pai_NWSE-MS-ML-models-2023
-Multi-purpose NLP ML Model that can perform sentiment analysis/text classification  
-Purpose of code: To create a model that performs sentiment analysis with a high accuracy, and use it for different use cases  
+Multi-purpose NLP ML Model that can perform sentiment analysis/text classification.  
+Purpose of code: To create a model that performs sentiment analysis with a high accuracy, and use it for different use cases.  
 ## Data Sets  
 There are 3 data sets in csv files that are used to train the models:  
 1. "*training_dataset_1000.csv*" --> Contains 1000 "Data"
